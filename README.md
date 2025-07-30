@@ -1,5 +1,5 @@
 # Tungsten RPA 2025.2 
-[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/2025.2-shem3gtulr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/2025.2-shem3gtulr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/index.html)]  [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Tungsten RPA 2025.2 was released on May 19, 2025
   * [What's New in RPA 2025.2](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
 ## New Features Overview
